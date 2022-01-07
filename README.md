@@ -2,7 +2,6 @@
  I 
  love 
  cookie 
- dough
  ice
  cream
  
