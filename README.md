@@ -2,6 +2,6 @@
  I 
  love
  cookie 
- ice
  cream
+ 
  
