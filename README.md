@@ -1,6 +1,6 @@
 # merge-together
  I 
- love 
+ love
  cookie 
  ice
  cream
